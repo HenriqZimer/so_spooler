@@ -187,4 +187,4 @@ O sistema inclui a chave de validação obrigatória `status_code::val-del-378` 
 
 ## Autores
 
-Sistema desenvolvido para a disciplina de Sistemas Operacionais - Univali 2025/2
+Sistema desenvolvido para a disciplina de Sistemas Operacionais - Univali 2025/2# so_spooler
